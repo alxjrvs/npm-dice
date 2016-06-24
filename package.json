@@ -1,0 +1,22 @@
+{
+  "name": "npm-dice",
+  "version": "1.0.0",
+  "description": "an implementation of Dice in Javascript with NPM",
+  "main": "roll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxjrvs/npm-dice.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alxjrvs/npm-dice/issues"
+  },
+  "homepage": "https://github.com/alxjrvs/npm-dice#readme",
+  "dependencies": {
+    "lodash": "^4.13.1"
+  }
+}
